@@ -1,0 +1,12 @@
+Resumen del análisis de ventas
+--------------------------------
+Ventas totales: $550000
+Producto más vendido: Auriculares
+
+Ventas por mes:
+mes
+2024-01     85000
+2024-02    250000
+2024-03     96000
+2024-04    119000
+Freq: M, Name: total, dtype: int64
